@@ -1,5 +1,7 @@
 # Usage
+
 terraform -chdir=terraform_eks_flux_install init
+
 terraform -chdir=terraform_eks_flux_install apply
 
 # Verify fluxcd
